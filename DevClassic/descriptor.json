@@ -1,0 +1,11 @@
+﻿{
+  "Descriptor": {
+    "UId": "b2d9b055-d235-eda0-f77c-7016df53a99c",
+    "Name": "DevClassic",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1722339673000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/DevClassic.csproj",
+    "DependsOn": []
+  }
+}

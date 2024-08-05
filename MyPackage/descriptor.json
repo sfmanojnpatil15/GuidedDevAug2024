@@ -1,0 +1,11 @@
+﻿{
+  "Descriptor": {
+    "UId": "8436021e-7d32-1c70-26fc-434ff56ab7b3",
+    "Name": "MyPackage",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1722839135000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/MyPackage.csproj",
+    "DependsOn": []
+  }
+}
